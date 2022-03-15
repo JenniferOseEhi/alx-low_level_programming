@@ -1,4 +1,4 @@
-#include "main.h"
+#include "_putchar.c"
 /**
  *main - prints _putchar.c, followed by a new line
  *Return: Always 0 (Success)
